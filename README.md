@@ -1,12 +1,13 @@
 # package_name
 
-Description. 
+## Description
 The package package_name is used to:
-	Processing:
+
+	### Processing:
 		- Histogram matching 
 		- Structural similarity
 		- Resize image
-	Utils:
+	### Utils:
 		- Read image
 		- Save image
 		- Plot image
@@ -15,7 +16,7 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install DIO-image-processing
 
 ```bash
 pip install DIO-processing-image
